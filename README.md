@@ -1,6 +1,6 @@
 # wued-support
 
-A solution for ie browser
+A solution for ie < 10 browser
 
 - [CSS 兼容查询](https://caniuse.com/)
 
