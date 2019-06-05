@@ -19,3 +19,9 @@ A solution for ie < 10 browser
 ``` html
 <script>/*@cc_on window.location.href="https://support.dmeng.net/upgrade-your-browser.html?referrer="+encodeURIComponent(window.location.href); @*/</script>
 ```
+
+## 360 浏览器强制使用谷歌 `webkit` 内核
+
+```html
+<meta name="renderer" content="webkit">
+```
